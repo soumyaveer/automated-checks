@@ -1,7 +1,7 @@
 ### General
-* [ ] Test your feature using seed data
+* [ ] Test your feature with seed data
 * [ ] Ensure names are descriptive
-* [ ] Leave comments, when code doesn't convey the logic
+* [ ] Leave comments when code doesn't convey the logic
 
 
 ### When new page added

@@ -19,9 +19,9 @@ class ComplexSet
 
     @items.each { |item| result.add(item) }
 
-    another_set.each { |item|
+    another_set.each do |item|
       result.add(item)
-    }
+    end
 
     result
   end
